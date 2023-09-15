@@ -34,6 +34,7 @@ public class Servlet01 extends HttpServlet {
 		out.println("<h2>サーブレットの確認</h2>");
 		out.println("</body>");
 		out.println("</head>");
+		
 	}
 
 }
